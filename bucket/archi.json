@@ -1,12 +1,12 @@
 {
-    "version": "5.1",
+    "version": "5.4.1",
     "description": "A tool and editor to create ArchiMate models",
     "homepage": "https://www.archimatetool.com",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://www.archimatetool.com/downloads/archi.php?/5.1/Archi-Win64-5.1.zip",
-            "hash": "356fe3ad8c67361c35aaae13e3b0d612608d3b70dadaba666e5abd04941a1308"
+            "url": "https://www.archimatetool.com/downloads/archi.php?/5.4.1/Archi-Win64-5.4.1.zip",
+            "hash": "sha1:a0c8d87d90a648fa5279e9b0639bc694de2d2afe"
         }
     },
     "extract_dir": "Archi",
